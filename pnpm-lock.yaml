@@ -112,10 +112,10 @@ importers:
         version: 3.6.0
       next:
         specifier: 14.2.12
-        version: 14.2.12(@babel/core@7.24.6)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 14.2.12(@babel/core@7.24.6)(@playwright/test@1.47.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       next-intl:
         specifier: ^3.14.1
-        version: 3.14.1(next@14.2.12(@babel/core@7.24.6)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
+        version: 3.14.1(next@14.2.12(@babel/core@7.24.6)(@playwright/test@1.47.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
       pino:
         specifier: ^9.2.0
         version: 9.2.0
